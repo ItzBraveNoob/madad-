@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/drawable/password_vector_asset.xml" value="0.2125" />
+        <entry key="app/src/main/res/layout-v21/list_group.xml" value="0.19293478260869565" />
+        <entry key="app/src/main/res/layout-v21/list_item.xml" value="0.19293478260869565" />
+        <entry key="app/src/main/res/layout/activity_about_us.xml" value="0.17" />
+        <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.10597826086956522" />
+        <entry key="app/src/main/res/layout/activity_details.xml" value="0.10597826086956522" />
+        <entry key="app/src/main/res/layout/activity_display_details.xml" value="0.14" />
+        <entry key="app/src/main/res/layout/activity_display_events.xml" value="0.19" />
+        <entry key="app/src/main/res/layout/activity_donate_details_2.xml" value="0.10099637681159421" />
+        <entry key="app/src/main/res/layout/activity_donated_items.xml" value="0.19293478260869565" />
+        <entry key="app/src/main/res/layout/activity_donor.xml" value="0.21" />
+        <entry key="app/src/main/res/layout/activity_donor2.xml" value="0.1838768115942029" />
+        <entry key="app/src/main/res/layout/activity_f_a_qs.xml" value="0.1838768115942029" />
+        <entry key="app/src/main/res/layout/activity_forgot_password.xml" value="0.1793478260869565" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.21" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.14" />
+        <entry key="app/src/main/res/layout/activity_register_user.xml" value="0.10597826086956522" />
+        <entry key="app/src/main/res/layout/activity_show_host_events.xml" value="0.10597826086956522" />
+        <entry key="app/src/main/res/layout/currentdonations.xml" value="0.147265625" />
+        <entry key="app/src/main/res/layout/dashboard_org.xml" value="0.10597826086956522" />
+        <entry key="app/src/main/res/layout/data.xml" value="0.10597826086956522" />
+        <entry key="app/src/main/res/layout/detailsdonationactivity.xml" value="0.10597826086956522" />
+        <entry key="app/src/main/res/layout/display_orgs.xml" value="0.1838768115942029" />
+        <entry key="app/src/main/res/layout/donation_activity.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/donationsrvfrag.xml" value="0.19293478260869565" />
+        <entry key="app/src/main/res/layout/fragment_donor.xml" value="0.10597826086956522" />
+        <entry key="app/src/main/res/layout/gallery_item.xml" value="0.12681159420289856" />
+        <entry key="app/src/main/res/layout/list_events.xml" value="0.10597826086956522" />
+        <entry key="app/src/main/res/layout/navheader.xml" value="0.19293478260869565" />
+        <entry key="app/src/main/res/layout/previousdonations.xml" value="0.16" />
+        <entry key="app/src/main/res/layout/profile_org.xml" value="0.10597826086956522" />
+        <entry key="app/src/main/res/layout/rating_bar.xml" value="0.19293478260869565" />
+        <entry key="app/src/main/res/layout/slide_layout.xml" value="0.10597826086956522" />
+        <entry key="app/src/main/res/layout/slider_layout.xml" value="0.10597826086956522" />
+        <entry key="app/src/main/res/layout/update_password.xml" value="0.10597826086956522" />
+        <entry key="app/src/main/res/menu/iconmenu.xml" value="0.19635416666666666" />
+        <entry key="app/src/main/res/menu/menu_donor_navigation.xml" value="0.19635416666666666" />
+        <entry key="app/src/main/res/menu/menu_org_navigation.xml" value="0.19635416666666666" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

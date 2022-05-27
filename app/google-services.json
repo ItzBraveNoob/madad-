@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "573787481333",
+    "firebase_url": "https://madad-5c209-default-rtdb.firebaseio.com",
+    "project_id": "madad-5c209",
+    "storage_bucket": "madad-5c209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573787481333:android:2f5c199f765df2d59111bc",
+        "android_client_info": {
+          "package_name": "com.example.madad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573787481333-mfobref88ejtk10jgj7q7net4ent9fb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLKyHwIpHTOMZzVeDq4d9zWpNUl_p2MvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573787481333-mfobref88ejtk10jgj7q7net4ent9fb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.example.madad">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.READ_CALENDAR"/>
+    <uses-permission android:name="android.permission.WRITE_CALENDAR"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.SEND_SMS"/>
+    <application android:allowBackup="true" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:roundIcon="@mipmap/ic_launcher_round" android:supportsRtl="true" android:theme="@style/Theme.Sevaarth">
+        <activity android:name="com.example.madad.AboutUs"/>
+        <activity android:name="com.example.madad.FAQs"/>
+        <activity android:name="com.example.madad.ShowHostEvents"/>
+        <activity android:name=".CallActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.example.madad.Dashboard" android:screenOrientation="portrait"/>
+        <activity android:name="com.example.madad.DisplayEvents" android:screenOrientation="portrait"/>
+        <activity android:name="com.example.madad.DisplayDetails" android:screenOrientation="portrait"/>
+        <activity android:name="com.example.madad.DonateDetails2" android:screenOrientation="portrait"/>
+        <activity android:name="com.example.madad.DonorActivity2" android:screenOrientation="portrait"/>
+        <activity android:name=".Organizations" android:screenOrientation="portrait"/>
+        <activity android:name=".Welcome" android:screenOrientation="portrait"/>
+        <activity android:name="com.example.madad.Donor" android:screenOrientation="portrait"/>
+        <activity android:name="com.example.madad.LoginActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.example.madad.ForgotPassword" android:screenOrientation="portrait"/>
+        <activity android:name="com.example.madad.RegisterUser" android:screenOrientation="portrait"/>
+        <activity android:name="com.example.madad.MainActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.madad.DonationActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.example.madad.DashboardOrgActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.example.madad.DetailsActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.example.madad.ProfileActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.example.madad.UploadActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.example.madad.DisplayOrgs" android:screenOrientation="portrait"/>
+        <activity android:name="com.example.madad.Donation_Details_Org" android:screenOrientation="portrait"/>
+    </application>
+</manifest>
